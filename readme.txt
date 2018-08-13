@@ -1,4 +1,4 @@
-1、运行C:\work\pythonStudy12\project\01_TeachingManagementSystem\bin\start.py文件;
+1、运行TeachingManagementSystem\bin\start.py文件;
 2、测试用户：
 超级管理员：alex 密码：123456
 老师编号:1 老师姓名:wusir 密码：123456
